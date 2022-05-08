@@ -1,4 +1,8 @@
-
+body{
+  background-color: #F9F3EE;
+  font-family: 'Dosis', sans-serif;
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
 div
 {
 border-radius: 5px;
@@ -49,6 +53,7 @@ color: #ffffff;
   border: 1px solid black;
   border-radius: 5px;
   border-spacing: 10px;
+  background-color: white;
 }
 .tablerow{
   padding-left:  30px;
