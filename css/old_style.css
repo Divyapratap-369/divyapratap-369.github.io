@@ -1,5 +1,6 @@
 a{
   text-decoration: none;
+  color: white;
   }
 a:hover{
   text-decoration: none;
@@ -17,9 +18,11 @@ width: 50%;
   text-decoration: underline;
   color:#94DAFF;
 }
-footer{
+.footer{
   margin-top: 2rem;
   margin-bottom: 2rem;
+  color: white;
+  text-align: center;
   }
   h1{
   color:#D8B6A4;
