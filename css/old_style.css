@@ -1,0 +1,58 @@
+a{
+  text-decoration: none;
+  }
+a:hover{
+  text-decoration: none;
+}
+body{
+  background-color: #142F43;
+}
+.banner-img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+.email{
+  text-decoration: underline;
+  color:#94DAFF;
+}
+footer{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  }
+  h1{
+  color:#D8B6A4;
+  font-family: 'Mochiy Pop P One', sans-serif;
+  margin-bottom: 0.5rem;
+  margin-top: 3rem;
+  text-decoration: underline;
+}
+.heading-1{
+  text-align: center;
+}
+h2{
+    color: #69DADB;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+h3{
+  margin-bottom: 0;
+  margin-top: 2rem;
+}
+h4{
+  margin-bottom: 1rem;
+  margin-top: 0.5rem;
+}
+.linkedin{
+  text-decoration: underline;
+  color: #94DAFF;
+}
+p{
+  color:#EEEBDD;
+  font-family: 'IBM Plex Serif', serif;
+}
+.resume-link:hover{
+  color:#9D84B7;
+}
+.github-link:hover{
+  color:#9D84B7;
