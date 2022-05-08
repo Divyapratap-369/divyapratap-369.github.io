@@ -68,7 +68,7 @@ h3
 float: left;
 margin-top: 50px;
 }
-@media screen and (max-width: 720px) {
+@media screen and (min-width: 720px) {
 #table{
     width: 100%;
 }
